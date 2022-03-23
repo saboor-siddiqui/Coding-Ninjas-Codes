@@ -1,3 +1,6 @@
+
+//Sorting of an array using selection sort
+
 package com.Arrays2;
 import java.util.*;
 public class SelectionSort {
